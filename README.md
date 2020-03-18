@@ -1,2 +1,2 @@
-# IsTouching
-in this game there are 2 rectangles in which they change their colour when they touch each other 
+# p5.play-boilerplate
+Boiler plate for p5.play
